@@ -1,4 +1,4 @@
-apiVersion: main
+apiVersion: v1
 publisher: hellofalks
 name: hellofalks
 version: 0.0.1
