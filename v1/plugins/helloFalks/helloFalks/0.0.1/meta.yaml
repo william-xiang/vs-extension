@@ -17,4 +17,4 @@ spec:
       cpuLimit:
       cpuRequest:
   extensions:
-          - https://github.com/william-xiang/vs-extension/raw/main/helloFalks.vsix
+          - https://github.com/william-xiang/vs-extension/raw/main/v1/plugins/helloFalks/helloFalks/0.0.1/helloFalks.vsix
