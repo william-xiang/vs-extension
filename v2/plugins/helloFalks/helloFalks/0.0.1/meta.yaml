@@ -2,7 +2,7 @@ apiVersion: v2
 publisher: hellofalks
 name: hellofalks
 version: 0.0.1
-type: VS Code extension
+type: Che Plugin
 displayName: helloFalks
 title: helloFalks
 description: my plugin for hello
