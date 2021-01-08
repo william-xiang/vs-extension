@@ -17,4 +17,4 @@ spec:
       cpuLimit:
       cpuRequest:
   extensions:
-          - https://github.com/william-xiang/vs-extension/raw/main/v2/plugins/helloFalks/helloFalks/0.0.1/helloFalks.vsix
+          - https://github.com/theia-ide/vscode-builtin-extensions/releases/download/v1.39.1-prel/css-1.39.1-prel.vsix
