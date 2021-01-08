@@ -2,7 +2,7 @@ apiVersion: v2
 publisher: hellofalks
 name: hellofalks
 version: 0.0.1
-type: Che Plugin
+type: Theia plugin
 displayName: helloFalks
 title: helloFalks
 description: my plugin for hello
