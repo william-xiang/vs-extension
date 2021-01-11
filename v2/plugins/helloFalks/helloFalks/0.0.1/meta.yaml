@@ -11,7 +11,7 @@ repository:
 category:
 spec:
   containers:
-    - image: quay.io/eclipse/che-plugin-metadata-broker
+    - image: 
       memoryLimit:
       memoryRequest:
       cpuLimit:
