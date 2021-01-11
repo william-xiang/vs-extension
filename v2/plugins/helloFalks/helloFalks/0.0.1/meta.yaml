@@ -10,11 +10,5 @@ icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository:
 category:
 spec:
-  containers:
-    - image: che-plugin-metadata-broker:v3.4.0
-      memoryLimit:
-      memoryRequest:
-      cpuLimit:
-      cpuRequest:
   extensions:
           - https://github.com/william-xiang/vs-extension/raw/main/v2/plugins/helloFalks/helloFalks/0.0.1/helloFalks.vsix
